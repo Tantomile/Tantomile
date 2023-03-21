@@ -1,5 +1,8 @@
-### Hi there 👋
+### Welcome to my profile!
 
+i sometimes write code and stuff
+
+primarly focusing on creating a discord bot for use within The Wikipedia Counter-Vandalism Unit!
 <!--
 **Tantomile/Tantomile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://raw.githubusercontent.com/tantomile/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/tantomile/github-stats/master/generated/languages.svg#gh-dark-mode-only)
