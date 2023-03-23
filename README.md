@@ -1,8 +1,13 @@
 ### Welcome to my profile!
 
-i sometimes write code and stuff
+i sometimes write code and stuff. 
 
-primarly focusing on creating a discord bot for use within The Wikipedia Counter-Vandalism Unit!
+i'm not entirely sure how it says i have 600,000 lines of code changed lol
+
+right now i'm primarly focusing on creating a discord bot for use in countervandalism on wikipedia. 
+
+I know HTML, Java, JavaScript, & Swift, with varying levels of fluency depending on how tired i am :)
+
 <!--
 **Tantomile/Tantomile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
