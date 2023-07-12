@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2462" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2532" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -31,7 +31,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -90,7 +90,7 @@ most times i write bad code
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            6 Pull requests reviewed
+                            7 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -153,7 +153,7 @@ most times i write bad code
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    8.89m added, 7.23m removed
+                                    2.01m added, 1.55m removed
                                 </div>
                             </section>
                             <section>
@@ -201,14 +201,14 @@ most times i write bad code
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="274.21609272234764" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="274.21609272234764" y="0" width="118.55151199870443" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="392.76760472105207" y="0" width="44.69384856167469" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="437.4614532827268" y="0" width="12.711278568462758" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="450.17273185118955" y="0" width="4.817320092172397" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="454.99005194336195" y="0" width="2.528729628022845" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.5187815713848" y="0" width="2.1511885262166373" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.66997009760144" y="0" width="0.3300299023985801" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="274.3981196342722" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="274.3981196342722" y="0" width="118.4520605333804" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="392.85018016765264" y="0" width="44.63475991080171" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="437.4849400784543" y="0" width="12.694473296022535" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="450.17941337447684" y="0" width="4.817062991088847" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="454.99647636556574" y="0" width="2.525386456043905" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.5218628216096" y="0" width="2.148344492152035" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.6702073137617" y="0" width="0.3297926862383402" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -285,14 +285,14 @@ most times i write bad code
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 3 commits)</small>
+                    <small class="h-details">(computed from last 6 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 71.7 characters per line of code written</li>
-                        <li>Mostly pushes code around 21:00</li>
-                        <li>Mostly active on Wednesday</li>
+                        <li>Mostly pushes code around 00:00</li>
+                        <li>Mostly active on Tuesday</li>
                     </ul>
                 </div>
             </section>
@@ -301,8 +301,8 @@ most times i write bad code
                     <h3>Commit activity per hour of day</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             00
                         </div>
                         <div class="entry">
@@ -437,8 +437,8 @@ most times i write bad code
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                <span class="value">3</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
@@ -487,6 +487,12 @@ most times i write bad code
                             </svg>
                             Commits streaks
                         </h3>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
+                            </svg>
+                            Current streak 1 day
+                        </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
@@ -1502,6 +1508,11 @@ most times i write bad code
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 7.8125)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1875 0,1.1875 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1875 1.7,2.1875 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1764,6 +1775,7 @@ most times i write bad code
                                 <g transform="translate(405, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -1787,7 +1799,7 @@ most times i write bad code
                                     </svg>
                                     <div class="name">
                                         <span>x-tools/xtools</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A suite of tools to analyze page, user and project data of MediaWiki websites</div>
@@ -1840,7 +1852,7 @@ most times i write bad code
                                     </svg>
                                     <div class="name">
                                         <span>GeopJr/BLAHAJ</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦈🏳️‍⚧️🏳️‍🌈 Gay sharks at your local terminal - lolcat-like CLI tool</div>
@@ -1921,6 +1933,575 @@ most times i write bad code
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 215 commits in
+                                        <span class="repo">Tantomile/mediawiki</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d7f513e</div>
+                                        <div class="message">preview: Insert template list after it's all built, rather than before
+
+The live-preview template list was being inserted while it was being
+queried, leading to the length of the list changing dynamically and
+the page visually moving around. To avoid this, this change holds
+the new template list until it's all been built, and then inserts it
+at that point.
+
+Also fixes an issue with the collapsibility of the template list.
+
+Bug: T337280
+Change-Id: I828d1a72f751b221c9da56e13d846f0ee2f2e281</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de2644e</div>
+                                        <div class="message">Add a test for SelectQueryBuilder::merge caller merging
+
+Change-Id: I63a3fdf988dd5e344e409c9ee85c350cbe472e65</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#18c31b4</div>
+                                        <div class="message">mw.util: Add .getArrayParam()
+
+This provides a replacement for the only feature of the mw.Uri library
+that isn't handled by the standard URL class, allowing us to migrate
+away from it entirely in several extensions. The code and tests are
+adapted from mw.Uri.
+
+Change-Id: Ia95a27c7d7ebc9e4779f82598152145f02993b29</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88457aa</div>
+                                        <div class="message">Disable autopromote-once for temporary users
+
+Update the following UserGroupManager methods:
+* addUserToAutopromoteOnceGroups returns an empty array as it does for
+  IP users
+* getUserAutopromoteOnceGroups returns an empty array
+
+Autopromotion was disabled for temporary users in
+d6a3b6cfa8f563dc769dbb1a33fe1431b2e4b88e.
+
+Bug: T340464
+Change-Id: I090bbd9f16070bf559f5bb87f04aabcf0bedbaf2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df1312b</div>
+                                        <div class="message">Throw an error from UserGroupManager::addUserToGroup if called on a temporary user
+
+- Add new error message specifically for Temp Users
+- Prevent calling UserGroupManager::addUserToGroup on a temporary user in Core
+
+Depends-On: 932292
+Bug: T340468
+Change-Id: I782a16efb20e3b1e2ead4ce5e3bc030d066355de</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd2f898</div>
+                                        <div class="message">Add temporary users to a 'temp' group, and stop adding them to 'user'
+
+When we first deploy temporary account autocreation, we want temporary
+users to resemble anon users more than registered users, for minimal
+community impact.
+
+If we add them to the 'user' group, then they will automatically get
+whatever rights a wiki currently assigns to registered users. If we
+don't, they will only get rights that are currently given to everyone
+(same as anons).
+
+Therefore stop adding them to the 'user' group, and instead add them
+to a new 'temp' group, in case site admins want to give them extra
+rights.
+
+Bug: T340457
+Depends-On: I6333fa2289f3142d1b5cedf2cc910ced3ba5019e
+Change-Id: Idb46252fe6533ab0a5410bdb3093043cb359c206</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e665d8</div>
+                                        <div class="message">Migrate assertSelect() to SelectQueryBuilder
+
+* Add MediaWikiIntegrationTestCase::newSelectQueryBuilder(), which
+  creates a subclass of SelectQueryBuilder with assert methods.
+* Migrate most callers of assertSelect() to this new query builder
+  interface.
+
+Bug: T311866
+Change-Id: I7392b37988067020d5f684276320dae0a474631a</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95d3c02</div>
+                                        <div class="message">Add parsoid skinning module to article page when useparsoid=1
+
+Bug: T335157
+Change-Id: Ia3bb8eb40a1aceb100ec6484cb1fef4b14a2391c</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#827fa65</div>
+                                        <div class="message">Don't report temporary users as belonging to autopromote groups
+
+Autopromotion was disabled for temporary users in
+d6a3b6cfa8f563dc769dbb1a33fe1431b2e4b88e. In that commit,
+PermissionManager::getUserImplicitGroups, no longer checks autopromote
+groups for temporary users, so PermissionManager::getUserPermissions
+no longer finds autopromote groups for temporary users.
+
+In this commit, UserGroupManager::getUserAutopromoteGroups no longer
+finds autopromote groups for temporary users.
+
+Bug: T340462
+Change-Id: I189391bd9a41718648d198b83736d837c76ead52</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#886e525</div>
+                                        <div class="message">Cleanup ParserTestRunner - take 2
+
+This reapplied commit b4e797510c8c02dd7f2307610ccb15f14cdb1f5a with
+some fixes for the parsoid tests, which can be checked by diff the
+patchset 1 and the latest patchset.
+
+- Factored out resetting of services that only related to language
+  and variant into a function, sorted all services roughly by their
+  dependency relationship.
+  Also, only reset when the language or variant is configured by the
+  test case.
+- Replaced manual redefine of ContentLanguage service with reset
+  method like others.
+- Reset necessary services after setting the default language code in
+  staticSetup(), so the override in addArticles() can be removed.
+- Use the 'skin' param of getText() for setting skin, so we don't need
+  to touch the context.
+- Removed the override of wgUser, wgLang, and wgOut. They didn't live
+  in parser-related codes anymore.
+- Setting user option is not the correct way here, the problem is
+  UserOption(Lookup|Manager) didn't get reset, so the default user
+  language is wrong; and the context have a cached Language object.
+  When the default language option updated, purge the cache with
+  setUser() should be sufficient.
+
+Change-Id: I4ebeaef98ed9b7682701c0385c68145ee1e78951</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d7b323</div>
+                                        <div class="message">search: disallow negative offsets
+
+a negative offset should not be allowed.
+
+Change-Id: Ie5bbda72ec846c0f01d0cec61bbd660130bd6473</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22d0a1c</div>
+                                        <div class="message">api: Make linksearch APIs also default to http and https in READ_NEW
+
+Basically centralizing the logic of default protocol in link search
+
+Bug: T14810
+Change-Id: I5383c4f5c4b01a74ce087eb7f8db83e398570f4f</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#10ad8c8</div>
+                                        <div class="message">Resources: Deprecate the @vue/composition-api module
+
+No longer needed after the Vue 2-&gt;3 migration.
+
+Depends-On: Ifa635f2c20a8b8ee3771defd9b1c7f7d1895eee1
+Depends-On: I14b7a1d7e2c69cf221478cfae960f6f0d891ba31
+Change-Id: Iaf7bd2986b7f4185923969899d61878e5ee5905b</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e56261</div>
+                                        <div class="message">SpecialEmailUser: Fix prefilling for subpage syntax
+
+Change the userform to use GET method, so it can proceed when the
+user visit it with query string. In this situation, form identifiers
+are not needed anymore.
+Also, HTMLForm field descriptor never supports 'value' param, fix
+prefilling for subpage syntax with filter-callback.
+
+Bug: T339294
+Change-Id: I24b0c97b76dbd1c765e93eea8258a287dbf4e582</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a2bc6f</div>
+                                        <div class="message">Add extension subheadings to table of contents on Special:Version
+
+Change-Id: Id0bab58c566cc09c97c7ef2a87579f7aa9a72d41</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c7dda1</div>
+                                        <div class="message">api: Change ApiBase::errorArrayToStatus to Authority
+
+Change-Id: Ib05a7181cc68067a7ed02cbbbf534fbae46c6fa9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c309513</div>
+                                        <div class="message">PermissionManager: small code tweaks/improvements
+
+- Use type-safe comparisons === and !== instead of == and != where it's
+  safe to do so. The ones comparing against the empty string are
+  intentionally left untouched so that they can be cleaned up later,
+  after checking whether the LHS can only be a string.
+- Make $coreRights a constant, as it's never modified.
+- Throw SPL exceptions instead of the base exception class, remove it
+  from the docblock when unchecked.
+- Use `[ $this, 'methodName' ]` for dynamic callbacks instead of just
+  `$methodName`. Doing so lets code analyzers immediately infer that the
+  value is used as a callable. For instance, PHPStorm is now able to see
+  that all those methods are actually used somewhere (previously they
+  were reported as being unused).
+- Add the checkUserConfigPermissions conditionally, instead of adding it
+  unconditionally and then messing with the array to remove it.
+- Use LinkTarget instead of Title in a couple places that can be
+  migrated easily.
+- Use the already available RestrictionStore to replace a call to
+  deprecated Title::getTitleProtection. Also rename the variable for
+  clarity, and use camelCase as well.
+
+Change-Id: Ia992f590a76392f566c701be64de03d713894be2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7cbb253</div>
+                                        <div class="message">refreshLinks: set a causeAction for SecondaryDataUpdates
+
+Knowning the reason why a secondary update was triggered is an useful
+information for debugging. Some LinksUpdate hook consumers might also
+want to fine-tune their behaviors based on this value.
+
+Change-Id: I19c0620e409b31995080ee0111b0b78782276563</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6304b20</div>
+                                        <div class="message">FakeQqxMessageLocalizer: Add @since
+
+Change-Id: Ib11069c7d261087fd9de405ff7e29f802d71dd51
+Follows-Up: I5297e4c43495b7e959798a21929f6d24d0b4b466</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#10bf1c7</div>
+                                        <div class="message">Language: Prefer mb_str_split and strtr function
+
+The `mb_str_split` function is better than `str_split` since we
+don't need to hard-code the length of multi-bytes char.
+The `strtr` function only travels the string one time, which is
+very suitable for replacing a mapping of chars.
+
+Change-Id: I25186250624f7c1403567957faf7d5ab414e1884</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 215 commits in
+                                        <span class="repo">Tantomile/mediawiki</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d7f513e</div>
+                                        <div class="message">preview: Insert template list after it's all built, rather than before
+
+The live-preview template list was being inserted while it was being
+queried, leading to the length of the list changing dynamically and
+the page visually moving around. To avoid this, this change holds
+the new template list until it's all been built, and then inserts it
+at that point.
+
+Also fixes an issue with the collapsibility of the template list.
+
+Bug: T337280
+Change-Id: I828d1a72f751b221c9da56e13d846f0ee2f2e281</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de2644e</div>
+                                        <div class="message">Add a test for SelectQueryBuilder::merge caller merging
+
+Change-Id: I63a3fdf988dd5e344e409c9ee85c350cbe472e65</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#18c31b4</div>
+                                        <div class="message">mw.util: Add .getArrayParam()
+
+This provides a replacement for the only feature of the mw.Uri library
+that isn't handled by the standard URL class, allowing us to migrate
+away from it entirely in several extensions. The code and tests are
+adapted from mw.Uri.
+
+Change-Id: Ia95a27c7d7ebc9e4779f82598152145f02993b29</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88457aa</div>
+                                        <div class="message">Disable autopromote-once for temporary users
+
+Update the following UserGroupManager methods:
+* addUserToAutopromoteOnceGroups returns an empty array as it does for
+  IP users
+* getUserAutopromoteOnceGroups returns an empty array
+
+Autopromotion was disabled for temporary users in
+d6a3b6cfa8f563dc769dbb1a33fe1431b2e4b88e.
+
+Bug: T340464
+Change-Id: I090bbd9f16070bf559f5bb87f04aabcf0bedbaf2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df1312b</div>
+                                        <div class="message">Throw an error from UserGroupManager::addUserToGroup if called on a temporary user
+
+- Add new error message specifically for Temp Users
+- Prevent calling UserGroupManager::addUserToGroup on a temporary user in Core
+
+Depends-On: 932292
+Bug: T340468
+Change-Id: I782a16efb20e3b1e2ead4ce5e3bc030d066355de</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd2f898</div>
+                                        <div class="message">Add temporary users to a 'temp' group, and stop adding them to 'user'
+
+When we first deploy temporary account autocreation, we want temporary
+users to resemble anon users more than registered users, for minimal
+community impact.
+
+If we add them to the 'user' group, then they will automatically get
+whatever rights a wiki currently assigns to registered users. If we
+don't, they will only get rights that are currently given to everyone
+(same as anons).
+
+Therefore stop adding them to the 'user' group, and instead add them
+to a new 'temp' group, in case site admins want to give them extra
+rights.
+
+Bug: T340457
+Depends-On: I6333fa2289f3142d1b5cedf2cc910ced3ba5019e
+Change-Id: Idb46252fe6533ab0a5410bdb3093043cb359c206</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e665d8</div>
+                                        <div class="message">Migrate assertSelect() to SelectQueryBuilder
+
+* Add MediaWikiIntegrationTestCase::newSelectQueryBuilder(), which
+  creates a subclass of SelectQueryBuilder with assert methods.
+* Migrate most callers of assertSelect() to this new query builder
+  interface.
+
+Bug: T311866
+Change-Id: I7392b37988067020d5f684276320dae0a474631a</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95d3c02</div>
+                                        <div class="message">Add parsoid skinning module to article page when useparsoid=1
+
+Bug: T335157
+Change-Id: Ia3bb8eb40a1aceb100ec6484cb1fef4b14a2391c</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#827fa65</div>
+                                        <div class="message">Don't report temporary users as belonging to autopromote groups
+
+Autopromotion was disabled for temporary users in
+d6a3b6cfa8f563dc769dbb1a33fe1431b2e4b88e. In that commit,
+PermissionManager::getUserImplicitGroups, no longer checks autopromote
+groups for temporary users, so PermissionManager::getUserPermissions
+no longer finds autopromote groups for temporary users.
+
+In this commit, UserGroupManager::getUserAutopromoteGroups no longer
+finds autopromote groups for temporary users.
+
+Bug: T340462
+Change-Id: I189391bd9a41718648d198b83736d837c76ead52</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#886e525</div>
+                                        <div class="message">Cleanup ParserTestRunner - take 2
+
+This reapplied commit b4e797510c8c02dd7f2307610ccb15f14cdb1f5a with
+some fixes for the parsoid tests, which can be checked by diff the
+patchset 1 and the latest patchset.
+
+- Factored out resetting of services that only related to language
+  and variant into a function, sorted all services roughly by their
+  dependency relationship.
+  Also, only reset when the language or variant is configured by the
+  test case.
+- Replaced manual redefine of ContentLanguage service with reset
+  method like others.
+- Reset necessary services after setting the default language code in
+  staticSetup(), so the override in addArticles() can be removed.
+- Use the 'skin' param of getText() for setting skin, so we don't need
+  to touch the context.
+- Removed the override of wgUser, wgLang, and wgOut. They didn't live
+  in parser-related codes anymore.
+- Setting user option is not the correct way here, the problem is
+  UserOption(Lookup|Manager) didn't get reset, so the default user
+  language is wrong; and the context have a cached Language object.
+  When the default language option updated, purge the cache with
+  setUser() should be sufficient.
+
+Change-Id: I4ebeaef98ed9b7682701c0385c68145ee1e78951</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d7b323</div>
+                                        <div class="message">search: disallow negative offsets
+
+a negative offset should not be allowed.
+
+Change-Id: Ie5bbda72ec846c0f01d0cec61bbd660130bd6473</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22d0a1c</div>
+                                        <div class="message">api: Make linksearch APIs also default to http and https in READ_NEW
+
+Basically centralizing the logic of default protocol in link search
+
+Bug: T14810
+Change-Id: I5383c4f5c4b01a74ce087eb7f8db83e398570f4f</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#10ad8c8</div>
+                                        <div class="message">Resources: Deprecate the @vue/composition-api module
+
+No longer needed after the Vue 2-&gt;3 migration.
+
+Depends-On: Ifa635f2c20a8b8ee3771defd9b1c7f7d1895eee1
+Depends-On: I14b7a1d7e2c69cf221478cfae960f6f0d891ba31
+Change-Id: Iaf7bd2986b7f4185923969899d61878e5ee5905b</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e56261</div>
+                                        <div class="message">SpecialEmailUser: Fix prefilling for subpage syntax
+
+Change the userform to use GET method, so it can proceed when the
+user visit it with query string. In this situation, form identifiers
+are not needed anymore.
+Also, HTMLForm field descriptor never supports 'value' param, fix
+prefilling for subpage syntax with filter-callback.
+
+Bug: T339294
+Change-Id: I24b0c97b76dbd1c765e93eea8258a287dbf4e582</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a2bc6f</div>
+                                        <div class="message">Add extension subheadings to table of contents on Special:Version
+
+Change-Id: Id0bab58c566cc09c97c7ef2a87579f7aa9a72d41</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c7dda1</div>
+                                        <div class="message">api: Change ApiBase::errorArrayToStatus to Authority
+
+Change-Id: Ib05a7181cc68067a7ed02cbbbf534fbae46c6fa9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c309513</div>
+                                        <div class="message">PermissionManager: small code tweaks/improvements
+
+- Use type-safe comparisons === and !== instead of == and != where it's
+  safe to do so. The ones comparing against the empty string are
+  intentionally left untouched so that they can be cleaned up later,
+  after checking whether the LHS can only be a string.
+- Make $coreRights a constant, as it's never modified.
+- Throw SPL exceptions instead of the base exception class, remove it
+  from the docblock when unchecked.
+- Use `[ $this, 'methodName' ]` for dynamic callbacks instead of just
+  `$methodName`. Doing so lets code analyzers immediately infer that the
+  value is used as a callable. For instance, PHPStorm is now able to see
+  that all those methods are actually used somewhere (previously they
+  were reported as being unused).
+- Add the checkUserConfigPermissions conditionally, instead of adding it
+  unconditionally and then messing with the array to remove it.
+- Use LinkTarget instead of Title in a couple places that can be
+  migrated easily.
+- Use the already available RestrictionStore to replace a call to
+  deprecated Title::getTitleProtection. Also rename the variable for
+  clarity, and use camelCase as well.
+
+Change-Id: Ia992f590a76392f566c701be64de03d713894be2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7cbb253</div>
+                                        <div class="message">refreshLinks: set a causeAction for SecondaryDataUpdates
+
+Knowning the reason why a secondary update was triggered is an useful
+information for debugging. Some LinksUpdate hook consumers might also
+want to fine-tune their behaviors based on this value.
+
+Change-Id: I19c0620e409b31995080ee0111b0b78782276563</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6304b20</div>
+                                        <div class="message">FakeQqxMessageLocalizer: Add @since
+
+Change-Id: Ib11069c7d261087fd9de405ff7e29f802d71dd51
+Follows-Up: I5297e4c43495b7e959798a21929f6d24d0b4b466</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#10bf1c7</div>
+                                        <div class="message">Language: Prefer mb_str_split and strtr function
+
+The `mb_str_split` function is better than `str_split` since we
+don't need to hard-code the length of multi-bytes char.
+The `strtr` function only travels the string one time, which is
+very suitable for replacing a mapping of chars.
+
+Change-Id: I25186250624f7c1403567957faf7d5ab414e1884</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Tantomile/mediawiki</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#37e4a36</div>
+                                        <div class="message">Merge pull request #1 from Tantomile/dependabot/npm_and_yarn/socket.io-parser-4.2.3
+
+Bump socket.io-parser from 4.2.1 to 4.2.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a0a90a</div>
+                                        <div class="message">Bump socket.io-parser from 4.2.1 to 4.2.3
+
+Bumps [socket.io-parser](https://github.com/socketio/socket.io-parser) from 4.2.1 to 4.2.3.
+- [Release notes](https://github.com/socketio/socket.io-parser/releases)
+- [Changelog](https://github.com/socketio/socket.io-parser/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/socketio/socket.io-parser/compare/4.2.1...4.2.3)
+
+---
+updated-dependencies:
+- dependency-name: socket.io-parser
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -1942,418 +2523,6 @@ most times i write bad code
                                         <span class="code">main</span>
                                         in
                                         <span class="repo">Tantomile/cloud9</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      repository
-                                        <span class="repo">Tantomile/cloud9</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1000 commits in
-                                        <span class="repo">Tantomile/mediawiki</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#13e0a7c</div>
-                                        <div class="message">Update eslint-config-wikimedia to 0.25.0
-
-Change-Id: I70d4e311d369bd160e0cb9411d1b074e22104006</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#159f847</div>
-                                        <div class="message">block: Database clean ups in BlockRestrictionStore
-
- - Use ICP instead of LB/LBF
- - Use query builders
-
-Bug: T330641
-Change-Id: Idc7956106d40ec0b07493a9dfe62165d3eebde42</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e31509</div>
-                                        <div class="message">changetags: Switch some of wfGetDB() calls to use ICP instead
-
-A proper clean up would be to introduce a new class and do proper DI and
-slowly clean up calls. I might do it eventually.
-
-Some cases it's not cleaned up because Database::getCacheSetOptions()
-require a Database class and not IReadableDatabase (and fixing it is a
-bit complicated).
-
-Bug: T330641
-Change-Id: Ia4470dcd2c553cae8d91b60bc5737f0254474567</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d44c45c</div>
-                                        <div class="message">watcheditem: Switch out of LB for picking db connection
-
-A bit of a clean up. Switching out of lbFactory to ICP is not possible
-at the moment because there is $this-&gt;lbFactory-&gt;getLocalDomainID()
-for cache prefix. Fixable later.
-
-Bug: T330641
-Change-Id: I2d4537f75f5877552c6d9fd2b76c5be1959ea400</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3bde709</div>
-                                        <div class="message">Merge "CREDITS: Update .mailmap and CREDITS"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4378a1</div>
-                                        <div class="message">CREDITS: Update .mailmap and CREDITS
-
-Add my .mailmap aliases and then run updateCredits.
-
-Change-Id: I00600a9141e8025c1b4ac69a4908a3376826e538</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c6c387</div>
-                                        <div class="message">Pingback: Switch to use ICP instead of LB
-
-Bug: T330641
-Change-Id: Ia300c13947d7fec67d5bf19614744ae661cc89ad</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cc00226</div>
-                                        <div class="message">Fix missing Entity Labels in list=recentchanges
-
-This issue was introduced by `[ 'renderForComment' =&gt; true ]`
-missing in the RowCommentFormatter due to duplication.
-
-Bug: T327062
-Change-Id: Ib0691d2b27123d4c54e84b879e317a54d618c791</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#169247e</div>
-                                        <div class="message">Localisation updates from https://translatewiki.net.
-
-Change-Id: I318b921dfd17a60e8c7ddfc50d64b941881a3bff</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b2bd5d7</div>
-                                        <div class="message">ResourceLoader: Log when MAXAGE_RECOVER is detected
-
-Send a message to Logstash when this condition is reached.
-It is expected that this happens for a portion of clients during the
-5min after a deployment, such such use an informational message,
-not a warning.
-
-This level is already enabled in wmf-config for channel=resourceloader.
-
-I'm adding this now as I'd like to rule out or confirm whether the
-our own CDN caching plays a rule in the corruptions reported at
-T321394. If so, we can dig deeper there. If not, then we're likely
-looking at a problem relating to browser extensions, Wikipedia mirrors,
-or user scripts; rather than something under our own control.
-
-Bug: T321394
-Change-Id: Iad2f5189da33551b59653c2a6783419d6ad955d0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c09409b</div>
-                                        <div class="message">rdbms: remove unused ILoadBalancer::CONN_REFRESH_READ_ONLY constant
-
-Follow-up to 6c21a8ef1147
-
-Bug: T334970
-Change-Id: Ibcff3b70c22d302018f8a2971e889a223ac7cd6f</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a697d50</div>
-                                        <div class="message">Merge "rdbms: Move ReadOnlyMode and ConfiguredReadOnlyMode to rdbms library"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95e52c5</div>
-                                        <div class="message">rdbms: Stop supporting MySQL in SQLite via regex
-
-Given that we now have abstract schema, any schema produced for SQLite
-will be produced specificly for SQLite, no need to do regex gymnastics
-that are hard to understand, maintain and obviously prone to break.
-
-Bug: T326181
-Change-Id: I58741ff82460cfd9a350440d50b293ba67e3c939</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#385fe52</div>
-                                        <div class="message">Remove last usage of jquery.tipsy in core
-
-This is never used, so code is removed. The default browser
-behaviour should be an acceptable fallback here until a product
-needs this again.
-
-Bug: T118124
-Change-Id: I43028820b481c685579451552a1d95ed5ca5b11b</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#619e17e</div>
-                                        <div class="message">Merge "rdbms: Move some DatabaseSQL tests to SQLPlatform"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#623d3dc</div>
-                                        <div class="message">rdbms: Move ReadOnlyMode and ConfiguredReadOnlyMode to rdbms library
-
-The db/ directory does not have an owner and it's a mess in general.
-These classes don't depend on anything in core except the rdbms library.
-Let's simply move it there. In other words, Krinkle made me do it.
-
-Since the class was moved in I6202e52ba73 merged less than a week ago,
-no need to alias anything.
-
-Bug: T321882
-Change-Id: I24ceeb8bf765a50f441270136acd612359d50aa2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ffda0cd</div>
-                                        <div class="message">api: Use Status::isGood in ApiQueryRevisionsBase::getRevisionRecords
-
-Status::isOk would be true when the result is true but with warnings,
-Status::isGood is false when there are warnings/errors
-
-When RevisionStore sets some warnings the api would die with the
-internal errors as text and
-not in the loop when detecting the missing revision id
-
-It does not fix any underlying issues with the revisions,
-but could give some more information.
-
-Bug: T336008
-Change-Id: I82cdf70eb1ce1159235180f77a6dce5e7965c2cf</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d3778b</div>
-                                        <div class="message">Merge "block: always check affectedRows() in DatabaseBlockStore::insertBlock()"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#958aac6</div>
-                                        <div class="message">rdbms: Move some DatabaseSQL tests to SQLPlatform
-
-These were written when we didn't have a SQLPlatform and has to weird
-gymnastics to actually make it work. Let's do it in a much simpler way.
-
-Change-Id: I183a6f854b311131629c5541af4dba6a78d08011</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cbf801f</div>
-                                        <div class="message">Merge "Namespace SpecialL* under \MediaWiki\Specials"</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1000 commits in
-                                        <span class="repo">Tantomile/mediawiki</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#13e0a7c</div>
-                                        <div class="message">Update eslint-config-wikimedia to 0.25.0
-
-Change-Id: I70d4e311d369bd160e0cb9411d1b074e22104006</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#159f847</div>
-                                        <div class="message">block: Database clean ups in BlockRestrictionStore
-
- - Use ICP instead of LB/LBF
- - Use query builders
-
-Bug: T330641
-Change-Id: Idc7956106d40ec0b07493a9dfe62165d3eebde42</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e31509</div>
-                                        <div class="message">changetags: Switch some of wfGetDB() calls to use ICP instead
-
-A proper clean up would be to introduce a new class and do proper DI and
-slowly clean up calls. I might do it eventually.
-
-Some cases it's not cleaned up because Database::getCacheSetOptions()
-require a Database class and not IReadableDatabase (and fixing it is a
-bit complicated).
-
-Bug: T330641
-Change-Id: Ia4470dcd2c553cae8d91b60bc5737f0254474567</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d44c45c</div>
-                                        <div class="message">watcheditem: Switch out of LB for picking db connection
-
-A bit of a clean up. Switching out of lbFactory to ICP is not possible
-at the moment because there is $this-&gt;lbFactory-&gt;getLocalDomainID()
-for cache prefix. Fixable later.
-
-Bug: T330641
-Change-Id: I2d4537f75f5877552c6d9fd2b76c5be1959ea400</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3bde709</div>
-                                        <div class="message">Merge "CREDITS: Update .mailmap and CREDITS"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4378a1</div>
-                                        <div class="message">CREDITS: Update .mailmap and CREDITS
-
-Add my .mailmap aliases and then run updateCredits.
-
-Change-Id: I00600a9141e8025c1b4ac69a4908a3376826e538</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c6c387</div>
-                                        <div class="message">Pingback: Switch to use ICP instead of LB
-
-Bug: T330641
-Change-Id: Ia300c13947d7fec67d5bf19614744ae661cc89ad</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cc00226</div>
-                                        <div class="message">Fix missing Entity Labels in list=recentchanges
-
-This issue was introduced by `[ 'renderForComment' =&gt; true ]`
-missing in the RowCommentFormatter due to duplication.
-
-Bug: T327062
-Change-Id: Ib0691d2b27123d4c54e84b879e317a54d618c791</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#169247e</div>
-                                        <div class="message">Localisation updates from https://translatewiki.net.
-
-Change-Id: I318b921dfd17a60e8c7ddfc50d64b941881a3bff</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b2bd5d7</div>
-                                        <div class="message">ResourceLoader: Log when MAXAGE_RECOVER is detected
-
-Send a message to Logstash when this condition is reached.
-It is expected that this happens for a portion of clients during the
-5min after a deployment, such such use an informational message,
-not a warning.
-
-This level is already enabled in wmf-config for channel=resourceloader.
-
-I'm adding this now as I'd like to rule out or confirm whether the
-our own CDN caching plays a rule in the corruptions reported at
-T321394. If so, we can dig deeper there. If not, then we're likely
-looking at a problem relating to browser extensions, Wikipedia mirrors,
-or user scripts; rather than something under our own control.
-
-Bug: T321394
-Change-Id: Iad2f5189da33551b59653c2a6783419d6ad955d0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c09409b</div>
-                                        <div class="message">rdbms: remove unused ILoadBalancer::CONN_REFRESH_READ_ONLY constant
-
-Follow-up to 6c21a8ef1147
-
-Bug: T334970
-Change-Id: Ibcff3b70c22d302018f8a2971e889a223ac7cd6f</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a697d50</div>
-                                        <div class="message">Merge "rdbms: Move ReadOnlyMode and ConfiguredReadOnlyMode to rdbms library"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95e52c5</div>
-                                        <div class="message">rdbms: Stop supporting MySQL in SQLite via regex
-
-Given that we now have abstract schema, any schema produced for SQLite
-will be produced specificly for SQLite, no need to do regex gymnastics
-that are hard to understand, maintain and obviously prone to break.
-
-Bug: T326181
-Change-Id: I58741ff82460cfd9a350440d50b293ba67e3c939</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#385fe52</div>
-                                        <div class="message">Remove last usage of jquery.tipsy in core
-
-This is never used, so code is removed. The default browser
-behaviour should be an acceptable fallback here until a product
-needs this again.
-
-Bug: T118124
-Change-Id: I43028820b481c685579451552a1d95ed5ca5b11b</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#619e17e</div>
-                                        <div class="message">Merge "rdbms: Move some DatabaseSQL tests to SQLPlatform"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#623d3dc</div>
-                                        <div class="message">rdbms: Move ReadOnlyMode and ConfiguredReadOnlyMode to rdbms library
-
-The db/ directory does not have an owner and it's a mess in general.
-These classes don't depend on anything in core except the rdbms library.
-Let's simply move it there. In other words, Krinkle made me do it.
-
-Since the class was moved in I6202e52ba73 merged less than a week ago,
-no need to alias anything.
-
-Bug: T321882
-Change-Id: I24ceeb8bf765a50f441270136acd612359d50aa2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ffda0cd</div>
-                                        <div class="message">api: Use Status::isGood in ApiQueryRevisionsBase::getRevisionRecords
-
-Status::isOk would be true when the result is true but with warnings,
-Status::isGood is false when there are warnings/errors
-
-When RevisionStore sets some warnings the api would die with the
-internal errors as text and
-not in the loop when detecting the missing revision id
-
-It does not fix any underlying issues with the revisions,
-but could give some more information.
-
-Bug: T336008
-Change-Id: I82cdf70eb1ce1159235180f77a6dce5e7965c2cf</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d3778b</div>
-                                        <div class="message">Merge "block: always check affectedRows() in DatabaseBlockStore::insertBlock()"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#958aac6</div>
-                                        <div class="message">rdbms: Move some DatabaseSQL tests to SQLPlatform
-
-These were written when we didn't have a SQLPlatform and has to weird
-gymnastics to actually make it work. Let's do it in a much simpler way.
-
-Change-Id: I183a6f854b311131629c5541af4dba6a78d08011</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cbf801f</div>
-                                        <div class="message">Merge "Namespace SpecialL* under \MediaWiki\Specials"</div>
                                     </div>
                                 </div>
                             </section>
@@ -2381,7 +2550,7 @@ Change-Id: I183a6f854b311131629c5541af4dba6a78d08011</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jul 2023, 19:21:32 (timezone America/Vancouver) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 11 Jul 2023, 19:27:04 (timezone America/Vancouver) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
